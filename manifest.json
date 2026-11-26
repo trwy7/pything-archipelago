@@ -1,0 +1,8 @@
+{
+  "id": "archipelago",
+  "name": "Archipelago",
+  "description": "Monitor an Archipelago multiworld session",
+  "codeowners": ["@trwy7"],
+  "requirements": ["websockets==15.0.1"],
+  "category": "uncategorized"
+}
